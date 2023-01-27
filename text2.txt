@@ -1,0 +1,31 @@
+
+GET /books
+200, OK
+
+ [
+    {
+        "id":85074,
+        "Name":"Quantitative Aptitude" ,
+        "Title": "Genral compition",
+        "Authore":"R.S.Aggrawal",
+        "Unit":"15",
+        "Price":"500"
+
+    },
+    {
+        "id":98621,
+        "Name":"Mathematics" ,
+        "Title": "For class seven",
+        "Authore":"R.S.Aggrawal",
+        "Unit":"12",
+        "Price":"300"  
+    },
+    {
+        "id":98704,
+        "Name": "The Commonwealth of Cricket",
+        "Title": "Cricket",
+        "Authore":"Ramachandra Guha",
+        "Unit":"25",
+        "Price":"600"
+    }
+]
